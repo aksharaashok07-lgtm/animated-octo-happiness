@@ -6,11 +6,11 @@ This is a repository containing basic Python programs for practice and learning.
 
 
 
-##### **About the Programs:**
+## **About the Programs:**
 
 
 
-1. **Calculator:**
+1\. **Calculator:**
 
 This code uses if-elif-else conditional statements to add, subtract, multiply or divide the numbers provided by the user as input.
 
@@ -34,7 +34,7 @@ This code uses conditional statements to find whether a given number is prime or
 
 
 
-##### **How to use this repository:**
+## **How to use this repository:**
 
 
 
@@ -44,7 +44,7 @@ This code uses conditional statements to find whether a given number is prime or
 
 
 
-##### **Software Requirements:**
+## **Software Requirements:**
 
 
 
